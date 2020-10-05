@@ -1,0 +1,14 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "simple node-js knowledgebase",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Venkatesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
